@@ -1,4 +1,4 @@
-# tool-transformer-split-rows
+# transformer-split-rows
 
 Splits a delimited row value into two output fields using a configurable separator.
 
